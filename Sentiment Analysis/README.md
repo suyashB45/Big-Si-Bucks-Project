@@ -68,19 +68,3 @@ We would like to thank the following resources:
 - [IMDB](https://www.imdb.com/) for movie information.
 - Various open-source libraries used in this project, including `pandas`, `scikit-learn`, and `nltk`.
 
-## Citation
-If you use this project in your research or work, please cite it as follows:
-```
-@misc{imdbtwitteranalysis2024,
-  author = {Your Name},
-  title = {IMDB Movie Twitter Review Sentiment Analysis},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/yourusername/imdb-movie-twitter-sentiment-analysis}}
-}
-```
-
----
-
-Feel free to customize this ReadMe file further based on your specific project details and any additional information you want to include!
