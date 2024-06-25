@@ -1,4 +1,3 @@
-Certainly! Here’s the updated README.md content for your GitHub repository, referencing the Kaggle dataset:
 
 # YOLOv8 Football Dataset
 
