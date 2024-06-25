@@ -1,6 +1,6 @@
-# Big Bucks Project
+# Big Si Bucks Project
 
-Welcome to the Big Bucks Project! This repository contains a series of AI/ML projects designed to showcase various machine learning and deep learning techniques. The projects included are:
+Welcome to the Big Si Bucks Project! This repository contains a series of AI/ML projects designed to showcase various machine learning and deep learning techniques. The projects included are:
 
 1. Linear Regression
 2. Classification of MNIST Dataset using K-Nearest Neighbors (KNN)
